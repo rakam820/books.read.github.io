@@ -1,0 +1,428 @@
+Uri: http://sila-pravo.ru.com/
+File Name: E:\sila-pravo.ru.com\index.htm
+Content Type: text/html
+
+Uri: http://sila-pravo.ru.com/css/style.css
+File Name: E:\sila-pravo.ru.com\css\style.css
+Content Type: text/css
+
+Uri: http://sila-pravo.ru.com/index-en.html
+File Name: E:\sila-pravo.ru.com\index-en.html
+Content Type: text/html
+
+Uri: http://sila-pravo.ru.com/img/logo.png
+File Name: E:\sila-pravo.ru.com\img\logo.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/form-1.png
+File Name: E:\sila-pravo.ru.com\img\form-1.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/form-2.png
+File Name: E:\sila-pravo.ru.com\img\form-2.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-1.png
+File Name: E:\sila-pravo.ru.com\img\services-1.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-2.png
+File Name: E:\sila-pravo.ru.com\img\services-2.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-7.png
+File Name: E:\sila-pravo.ru.com\img\services-7.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-8.png
+File Name: E:\sila-pravo.ru.com\img\services-8.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-3.png
+File Name: E:\sila-pravo.ru.com\img\services-3.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-4.png
+File Name: E:\sila-pravo.ru.com\img\services-4.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-9.png
+File Name: E:\sila-pravo.ru.com\img\services-9.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-10.png
+File Name: E:\sila-pravo.ru.com\img\services-10.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-5.png
+File Name: E:\sila-pravo.ru.com\img\services-5.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-6.png
+File Name: E:\sila-pravo.ru.com\img\services-6.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-11.png
+File Name: E:\sila-pravo.ru.com\img\services-11.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-12.png
+File Name: E:\sila-pravo.ru.com\img\services-12.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-13.png
+File Name: E:\sila-pravo.ru.com\img\services-13.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-14.png
+File Name: E:\sila-pravo.ru.com\img\services-14.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-15.png
+File Name: E:\sila-pravo.ru.com\img\services-15.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-16.png
+File Name: E:\sila-pravo.ru.com\img\services-16.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-17.png
+File Name: E:\sila-pravo.ru.com\img\services-17.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/services-18.png
+File Name: E:\sila-pravo.ru.com\img\services-18.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/callback-img.jpg
+File Name: E:\sila-pravo.ru.com\img\callback-img.jpg
+Content Type: image/jpeg
+
+Uri: http://sila-pravo.ru.com/img/lawyer-1.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-1.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/lawyer-2.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-2.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/lawyer-3.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-3.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/lawyer-4.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-4.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/lawyer-5.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-5.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/lawyer-6.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-6.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/analysis-peoples.png
+File Name: E:\sila-pravo.ru.com\img\analysis-peoples.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/video-placeholder.png
+File Name: E:\sila-pravo.ru.com\img\video-placeholder.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/person-1.png
+File Name: E:\sila-pravo.ru.com\img\person-1.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/person-2.png
+File Name: E:\sila-pravo.ru.com\img\person-2.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/person-3.png
+File Name: E:\sila-pravo.ru.com\img\person-3.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/person-4.png
+File Name: E:\sila-pravo.ru.com\img\person-4.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/person-5.png
+File Name: E:\sila-pravo.ru.com\img\person-5.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/person-6.png
+File Name: E:\sila-pravo.ru.com\img\person-6.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/person-7.png
+File Name: E:\sila-pravo.ru.com\img\person-7.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/def-img-1.png
+File Name: E:\sila-pravo.ru.com\img\def-img-1.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/logo-footer.png
+File Name: E:\sila-pravo.ru.com\img\logo-footer.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/popup-bg.png
+File Name: E:\sila-pravo.ru.com\img\popup-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/js/main.js
+File Name: E:\sila-pravo.ru.com\js\main.js
+Content Type: application/javascript
+
+Uri: http://sila-pravo.ru.com/img/owl.video.play.png
+File Name: E:\sila-pravo.ru.com\img\owl.video.play.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro-Medium.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro-Medium.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro-Medium.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro-Medium.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro-Bold.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro-Bold.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro-Bold.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro-Bold.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro-Light.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro-Light.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro-Light.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro-Light.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/GothamPro.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\GothamPro.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria-Italic.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria-Italic.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria-Italic.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria-Italic.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria-Bold.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria-Bold.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria-Bold.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria-Bold.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria-BoldItalic.woff.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria-BoldItalic.woff.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/fonts/Cambria-BoldItalic.ttf.txt
+File Name: E:\sila-pravo.ru.com\fonts\Cambria-BoldItalic.ttf.txt
+Content Type: text/plain
+
+Uri: http://sila-pravo.ru.com/img/arrow-tag.png
+File Name: E:\sila-pravo.ru.com\img\arrow-tag.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/btn-bg.png
+File Name: E:\sila-pravo.ru.com\img\btn-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/btn-shadow.png
+File Name: E:\sila-pravo.ru.com\img\btn-shadow.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/star-big.png
+File Name: E:\sila-pravo.ru.com\img\star-big.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/play.png
+File Name: E:\sila-pravo.ru.com\img\play.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/arrow-down.png
+File Name: E:\sila-pravo.ru.com\img\arrow-down.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/tel-icon.png
+File Name: E:\sila-pravo.ru.com\img\tel-icon.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/star.png
+File Name: E:\sila-pravo.ru.com\img\star.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/close.svg
+File Name: E:\sila-pravo.ru.com\img\close.svg
+Content Type: image/svg+xml
+
+Uri: http://sila-pravo.ru.com/img/banner-bg.png
+File Name: E:\sila-pravo.ru.com\img\banner-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/curve-button.png
+File Name: E:\sila-pravo.ru.com\img\curve-button.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/peoples.png
+File Name: E:\sila-pravo.ru.com\img\peoples.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/form-bg.png
+File Name: E:\sila-pravo.ru.com\img\form-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/form-bg-mobile.png
+File Name: E:\sila-pravo.ru.com\img\form-bg-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/tel-icon-2.png
+File Name: E:\sila-pravo.ru.com\img\tel-icon-2.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/man-icon.png
+File Name: E:\sila-pravo.ru.com\img\man-icon.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/callback-form.png
+File Name: E:\sila-pravo.ru.com\img\callback-form.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/lawyer-bg.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/lawyer-bg-mobile.png
+File Name: E:\sila-pravo.ru.com\img\lawyer-bg-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/analysis-bg.png
+File Name: E:\sila-pravo.ru.com\img\analysis-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/leg.png
+File Name: E:\sila-pravo.ru.com\img\leg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/analysis-bg-mobile.png
+File Name: E:\sila-pravo.ru.com\img\analysis-bg-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/video-bg.png
+File Name: E:\sila-pravo.ru.com\img\video-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/video-bg-mobile.png
+File Name: E:\sila-pravo.ru.com\img\video-bg-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/nav-video.png
+File Name: E:\sila-pravo.ru.com\img\nav-video.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/nav-video-left.png
+File Name: E:\sila-pravo.ru.com\img\nav-video-left.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/command-item-bg.png
+File Name: E:\sila-pravo.ru.com\img\command-item-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/command-item-bg-mobile.png
+File Name: E:\sila-pravo.ru.com\img\command-item-bg-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/def-bg.png
+File Name: E:\sila-pravo.ru.com\img\def-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/desc.png
+File Name: E:\sila-pravo.ru.com\img\desc.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/def-item.png
+File Name: E:\sila-pravo.ru.com\img\def-item.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/def-bg-mobile.png
+File Name: E:\sila-pravo.ru.com\img\def-bg-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/desc-mobile.png
+File Name: E:\sila-pravo.ru.com\img\desc-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/def-item-mobile.png
+File Name: E:\sila-pravo.ru.com\img\def-item-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/def-card.png
+File Name: E:\sila-pravo.ru.com\img\def-card.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/contacts-bg.png
+File Name: E:\sila-pravo.ru.com\img\contacts-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/contacts-tab-bg.png
+File Name: E:\sila-pravo.ru.com\img\contacts-tab-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/contacts-map-card.png
+File Name: E:\sila-pravo.ru.com\img\contacts-map-card.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/contacts-bg-mobile.png
+File Name: E:\sila-pravo.ru.com\img\contacts-bg-mobile.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/footer-dot.png
+File Name: E:\sila-pravo.ru.com\img\footer-dot.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/soc-1.png
+File Name: E:\sila-pravo.ru.com\img\soc-1.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/soc-2.png
+File Name: E:\sila-pravo.ru.com\img\soc-2.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/soc-3.png
+File Name: E:\sila-pravo.ru.com\img\soc-3.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/popup-label.png
+File Name: E:\sila-pravo.ru.com\img\popup-label.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/img/counter-bg.png
+File Name: E:\sila-pravo.ru.com\img\counter-bg.png
+Content Type: image/png
+
+Uri: http://sila-pravo.ru.com/index.html
+File Name: E:\sila-pravo.ru.com\index.html
+Content Type: text/html
+
